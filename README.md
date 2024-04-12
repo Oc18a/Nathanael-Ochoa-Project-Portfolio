@@ -1,1 +1,1 @@
-My name is Nathanael Ochoa and this is my project portfolio. Most of these projects are from the Master's in Data Science program that I am currently in.
+My name is Nathanael Ochoa and this is my project portfolio. Most of these projects are from the Master's in Data Science program that I am currently in. I have a SQL project from OpenClassrooms that I have completed that I have yet to add to this portfolio so that is currently pending. More projects will be added as they are completed!
