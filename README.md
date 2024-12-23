@@ -4,4 +4,4 @@ It currently contains a python program that incorporates 2 API calls that allow 
 More projects will be added as I complete them in the program!
 The OpenClassrooms folder contains a SQL data analysis project from their "Database Querying with SQL" certification program.
 
-- To be updated for DSC680
+- Above yet to be updated for DSC680
