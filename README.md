@@ -32,8 +32,8 @@ B.S., Computer Science w/ minor in Mathematics | California State University of 
 ### [Data Analysis with SQL](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Data%20Analysis%20with%20SQL)
 - In OpenClassrooms' mock project, I was hired as a freelance Data Analyst by Datazine, a French online magazine. Over a 3-month contract, my tasks included identifying key user indicators, determining the optimal times for content posting, and assessing the potential profit of launching an English version of the magazine in the U.S. I created a database in MySQL Workbench, using SQL create statements to establish six tables and then uploaded six provided CSV files. I followed a PowerPoint guide that included prompts with questions, SQL query spaces, and answer sections to complete the project.
 
-### [Data Preparation (wip)](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Data%20Preparation%20(need%20to%20update))
-text here
+### [Data Preparation Course Project (TBA)](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Data%20Preparation%20(need%20to%20update))
+- 
 
 ### [Manga to Anime - Predicting Adaptation Potential](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Manga%20to%20Anime%20-%20Predicting%20Adaptation%20Potential)
 - This project aimed to develop a predictive model for determining which manga series are worth adapting into anime, using data from MyAnimeList. By analyzing manga ratings and comparing them to anime adaptation ratings, the goal was to create a model that could assist executives in making informed decisions about resource allocation for new anime projects. After cleaning and preparing the data, the analysis compared several machine learning models, ultimately selecting the Random Forest Classifier for its highest accuracy of 93.5%. Despite challenges such as missing data and the need to average anime scores, the model showed promise, and further refinements could enhance its predictive power. The project highlighted the potential for data analytics in the anime industry to minimize financial risks and maximize opportunities.
@@ -41,11 +41,11 @@ text here
 ### [Optimizing E-Commerce Store Profits](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Optimizing%20E-Commerce%20Store%20Profits)
 - This project aimed to enhance the profitability of an e-commerce jewelry store, "630 Jewelers," by developing a product recommender system and an inventory management model. Using data from customer purchase history, the recommender was built using content-based filtering and cosine similarity to suggest products based on item features. For inventory management, an Exponential Smoothing model, specifically the Holt-Winters method, was applied to forecast demand for a high-frequency product, achieving a Mean Absolute Error (MAE) of 2.85, indicating satisfactory forecasting accuracy. The project’s recommendations include integrating the recommender at checkout and in email marketing, prioritizing slow-selling inventory, and using the inventory model to adjust stock orders. These improvements aim to increase sales and optimize inventory management for the business.
 
-### [DSC 670 Term Project(wip)]()
-text here
+### [DSC 670 Term Project (wip)]()
+- The goal is to help managers easily create break and lunch schedules based on their team's daily work schedule. Previous schedule data is being collected and will be used to fine-tune a generative AI model. No personal information is being used in the data collection process.
 
 ### [DSC 680 Project 2 (wip)]()
-text here
+- A 70,000-patient study is being used to determine if there is a correlation between cholesterol and cardiovascular disease.
 
-### [DSC 680 Project 3(wip)]()
-text here
+### [DSC 680 Project 3 (TBA)]()
+- Will be added once complete.
