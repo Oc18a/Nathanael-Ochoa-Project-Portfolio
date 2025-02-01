@@ -1,11 +1,9 @@
 title: Nathanael Ochoa
 #logo:
-description: 
-Contact
-nathanael.ochoa.18@gmail.com
-(661) 210-5019
-#minima:
- # social_links:
-   # linkedin: https://www.linkedin.com/in/nathanael-ochoa/
+description: descripton of website here
+email: nathanael.ochoa.18@gmail.com
+phone: (661) 210-5019
+social_links:
+ linkedin: https://www.linkedin.com/in/nathanael-ochoa/
 show_downloads: false
 theme: jekyll-theme-minimal
