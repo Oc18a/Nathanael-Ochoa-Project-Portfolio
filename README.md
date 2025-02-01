@@ -2,8 +2,7 @@
 
 M.S., Data Science | Bellevue University (Aug 2023 - Mar 2025)<br>
 Certificate of Training in Database Querying with SQL | OpenClassrooms (Apr 2023)<br>
-B.S., Computer Science | California State University of Northridge (Aug 2020 - May 2022)<br>
-- Minor in Mathematics
+B.S., Computer Science w/ minor in Mathematics | California State University of Northridge (Aug 2020 - May 2022)<br>
 
 ## Work Experience
 
