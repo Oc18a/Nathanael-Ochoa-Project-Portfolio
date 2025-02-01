@@ -1,6 +1,7 @@
 ## Education
 
 - M.S., Data Science | Bellevue University (Aug 2023 - Mar 2025)
+- Certificate of Training in Database Querying with SQL | OpenClassrooms (Apr 2023)
 - B.S., Computer Science with a minor in Mathematics | California State University of Northridge (Aug 2020 - May 2022)
 
 ## Work Experience
@@ -16,10 +17,10 @@ text here
 text here
 
 ### [City Weather with API](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/City%20Weather%20with%20API)
-text here
+- This program interacts with a web service to retrieve weather data for a user-specified location within the U.S. Users can search by city name and state code or ZIP/postal code and specify their preferred units of measurement (e.g., Celsius or Fahrenheit). The program allows for multiple consecutive searches, with input validation checks in place to ensure only valid data is entered. It is designed to provide accurate and accessible weather information with a simple and user-friendly interface.
 
 ### [Data Analysis with SQL](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Data%20Analysis%20with%20SQL)
-text here
+- In OpenClassrooms' mock project, I was hired as a freelance Data Analyst by Datazine, a French online magazine. Over a 3-month contract, my tasks included identifying key user indicators, determining the optimal times for content posting, and assessing the potential profit of launching an English version of the magazine in the U.S. I created a database in MySQL Workbench, using SQL create statements to establish six tables and then uploaded six provided CSV files. I followed a PowerPoint guide that included prompts with questions, SQL query spaces, and answer sections to complete the project.
 
 ### [Data Preparation (wip)](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Data%20Preparation%20(need%20to%20update))
 text here
