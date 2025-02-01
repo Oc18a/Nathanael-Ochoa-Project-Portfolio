@@ -1,8 +1,8 @@
 ## Education
 
-M.S., Data Science | Bellevue University (Aug 2023 - Mar 2025)
-Certificate of Training in Database Querying with SQL | OpenClassrooms (Apr 2023)
-B.S., Computer Science | California State University of Northridge (Aug 2020 - May 2022)
+M.S., Data Science | Bellevue University (Aug 2023 - Mar 2025)<br>
+Certificate of Training in Database Querying with SQL | OpenClassrooms (Apr 2023)<br>
+B.S., Computer Science | California State University of Northridge (Aug 2020 - May 2022)<br>
 - Minor in Mathematics
 
 ## Work Experience
