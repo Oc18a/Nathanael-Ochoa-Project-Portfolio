@@ -6,4 +6,4 @@ The OpenClassrooms folder contains a SQL data analysis project from their "Datab
 
 - Above yet to be updated for DSC680
 
-## [Project 1]()
+## [Project 1](https://github.com/Oc18a/Nathanael-Ochoa-Portfolio.github.io/tree/main/Analyzing%20Previous%20Olympic%20Games%20Data)
