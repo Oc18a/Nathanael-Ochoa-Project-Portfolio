@@ -2,11 +2,22 @@
 
 - M.S., Data Science | Bellevue University (Aug 2023 - Mar 2025)
 - Certificate of Training in Database Querying with SQL | OpenClassrooms (Apr 2023)
-- B.S., Computer Science with a minor in Mathematics | California State University of Northridge (Aug 2020 - May 2022)
+- B.S., Computer Science | California State University of Northridge (Aug 2020 - May 2022)
+    - Minor in Mathematics
 
 ## Work Experience
 
-Text here
+### Target Corporation | Jun 2018 - Present
+*General Merchandise/Fulfillment Expert*
+- Efficiently fulfill digital guest orders by selecting, preparing, packing, and sorting items for order pickup, drive-up, and shipping to home.
+- Ensure accuracy in order processing and timely delivery to meet guest demand and productivity metrics.
+- Expertly manage select store areas to maintain a well-zoned, stocked, and signed sales floor, ensuring guest satisfaction and optimal sales performance.
+- Acknowledge guests while efficiently completing workload, prioritize tasks based on sales trends, execute promotions, planograms, and price changes, and maintain inventory accuracy through backroom organization and inbound delivery processing.
+
+### Gamestar+ | Dec 2021
+*QA Contract Engineer*
+- QA Alpha builds for user focus testing on workflow and continuity.
+- Documented blocker bugs and raised priority for fixes to developers.
 
 ## Projects
 
