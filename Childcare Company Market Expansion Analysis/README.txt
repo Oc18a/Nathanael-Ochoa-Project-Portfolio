@@ -1,0 +1,5 @@
+Childcare Company Market Expansion Analysis
+
+This project aimed to provide actionable insights into weekly median child care prices across U.S. counties and cities to support DV Child Care’s potential market expansion. The analysis, based on a decade of data (2008-2018), identified a clear trend of rising prices over time, reflecting broader economic shifts. I focused on presenting findings through an interactive dashboard, a summary brief, and a slideshow tailored for stakeholders, enabling informed decision-making. Assumptions about data accuracy were made for simplicity, with some variables excluded for clarity. Although demographic correlations with pricing weren’t fully explored, the analysis provides a strong foundation for understanding market trends and informing expansion strategies.
+
+This project was completed using Python and Jupyter Notebook. Three different visualizations/mediums were required, and I chose an interactive dashboard, a summary brief, and a slideshow. The dashboard link is provided in the slideshow.

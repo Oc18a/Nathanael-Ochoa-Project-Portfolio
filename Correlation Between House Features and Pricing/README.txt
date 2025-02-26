@@ -1,0 +1,5 @@
+﻿Correlation Between House Features and Pricing
+
+This project explores the correlation between house features and pricing using the USA Real Estate Dataset from Kaggle, focusing on data from Delaware. Key variables analyzed include the number of bedrooms, bathrooms, house size, and location. Data cleaning involved removing rows with missing values or incorrect statuses, and the analysis was limited to Delaware due to visualization challenges posed by the dataset's large size and numerous outliers. The goal was to determine if these house features have a significant correlation with pricing. While factors like house condition and additional features (e.g., garage, neighborhood safety) were not available in the dataset, they were noted as potential improvements for future analyses. The project provides insights into the relationship between house features and pricing but acknowledges the limitations due to the dataset's structure and the absence of certain key variables.
+
+This project was completed using Python and Jupyter Notebook.
