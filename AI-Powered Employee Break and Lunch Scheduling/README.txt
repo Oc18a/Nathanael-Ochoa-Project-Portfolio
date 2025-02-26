@@ -1,0 +1,5 @@
+AI-Powered Employee Break and Lunch Scheduling
+
+This project is an AI-driven solution designed to automate the process of creating break and lunch schedules for retail employees. The system leverages OpenAI's GPT-4 model, fine-tuned on historical scheduling data, to generate optimized schedules based on various constraints, such as shift lengths, break timings, and minimizing overlap between team member breaks. The project uses a combination of Jupyter Notebook for model training, Python for data processing, and Streamlit for creating an intuitive user interface. The Streamlit app allows team leaders to input employee shift details and automatically generate a break/lunch schedule, streamlining the scheduling process and saving valuable time. The app can be run and stopped directly from the Jupyter Notebook, making the entire process seamless and efficient.
+
+This project was completed using Python and Jupyter Notebook. The script containing the Streamlit code and the slideshow are also available for viewing.
