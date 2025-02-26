@@ -1,0 +1,5 @@
+Correlations Between Blood Pressure, Cholesterol, and Cardiovascular Disease
+
+This project analyzes the correlations between blood pressure, cholesterol levels, and the risk of cardiovascular disease (CVD). Using a dataset of 70,000 patient records, the goal is to explore how factors like age, blood pressure, cholesterol, weight, smoking, physical activity, and alcohol consumption contribute to the likelihood of cardiovascular disease. Various methods such as Exploratory Data Analysis (EDA), Pearson correlation, Chi-Square tests, and logistic regression models were used to identify significant predictors. The Random Forest classifier was also employed to enhance prediction accuracy. The findings suggest that age, cholesterol, and systolic blood pressure are the strongest predictors of CVD, while lifestyle factors like smoking and physical activity show weaker but still significant correlations. The project includes an analysis paper, code implementation, and a slideshow summarizing key insights.
+
+This project was completed using Python and Jupyter Notebook. A paper and a slideshow are also available for viewing.
