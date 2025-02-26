@@ -1,0 +1,5 @@
+Optimizing E-Commerce Store Profits
+
+This project aimed to enhance the profitability of an e-commerce jewelry store, “630 Jewelers,” by developing a product recommender system and an inventory management model. Using data from customer purchase history, the recommender was built using content-based filtering and cosine similarity to suggest products based on item features. For inventory management, an Exponential Smoothing model, specifically the Holt-Winters method, was applied to forecast demand for a high-frequency product, achieving a Mean Absolute Error (MAE) of 2.85, indicating satisfactory forecasting accuracy. The project’s recommendations include integrating the recommender at checkout and in email marketing, prioritizing slow-selling inventory, and using the inventory model to adjust stock orders. These improvements aim to increase sales and optimize inventory management for the business.
+
+This project was completed using Python and Jupyter Notebook. A paper and a slideshow are also available for viewing.

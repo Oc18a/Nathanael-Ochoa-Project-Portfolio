@@ -1,0 +1,5 @@
+Manga to Anime - Predicting Adaptation Potential
+
+This project aimed to develop a predictive model for determining which manga series are worth adapting into anime, using data from MyAnimeList. By analyzing manga ratings and comparing them to anime adaptation ratings, the goal was to create a model that could assist executives in making informed decisions about resource allocation for new anime projects. After cleaning and preparing the data, the analysis compared several machine learning models, ultimately selecting the Random Forest Classifier for its highest accuracy of 93.5%. Despite challenges such as missing data and the need to average anime scores, the model showed promise, and further refinements could enhance its predictive power. The project highlighted the potential for data analytics in the anime industry to minimize financial risks and maximize opportunities.
+
+This project was completed using Python and Jupyter Notebook.
