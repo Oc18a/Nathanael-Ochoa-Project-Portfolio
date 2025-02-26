@@ -44,7 +44,7 @@ B.S., Computer Science w/ minor in Mathematics | California State University of 
 ### [DSC 670 Term Project (wip)]()
 - The goal is to help managers easily create break and lunch schedules based on their team's daily work schedule. Previous schedule data is being collected and will be used to fine-tune a generative AI model. No personal information is being used in the data collection process.
 
-### [Correlations Between Blood Pressure, Cholesterol, and Cardiovascular Disease]()
+### [Correlations Between Blood Pressure, Cholesterol, and Cardiovascular Disease](https://github.com/Oc18a/Nathanael-Ochoa-Project-Portfolio/tree/main/Correlations%20Between%20Blood%20Pressure%2C%20Cholesterol%2C%20and%20Cardiovascular%20Disease)
 - This project analyzes the correlations between blood pressure, cholesterol levels, and the risk of cardiovascular disease (CVD). Using a dataset of 70,000 patient records, the goal is to explore how factors like age, blood pressure, cholesterol, weight, smoking, physical activity, and alcohol consumption contribute to the likelihood of cardiovascular disease. Various methods such as Exploratory Data Analysis (EDA), Pearson correlation, Chi-Square tests, and logistic regression models were used to identify significant predictors. The Random Forest classifier was also employed to enhance prediction accuracy. The findings suggest that age, cholesterol, and systolic blood pressure are the strongest predictors of CVD, while lifestyle factors like smoking and physical activity show weaker but still significant correlations. The project includes an analysis paper, code implementation, and a slideshow summarizing key insights.
 
 ### [DSC 680 Project 3 (TBA)]()
