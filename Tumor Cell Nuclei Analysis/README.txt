@@ -1,0 +1,5 @@
+Tumor Cell Nuclei Analysis
+
+This project analyzes tumor cell nuclei characteristics in breast cancer to distinguish between benign and malignant tumors. Inspired by personal experiences with breast cancer, the dataset used comes from a 1992 study that aimed to diagnose breast tumors using fine needle aspirations (FNAs) and image processing. The study analyzed tumor cell features to predict malignancy without a full biopsy. The project explores the impact of size, shape, and texture of tumor cell nuclei on classification. After applying machine learning models, including Logistic Regression, Random Forest, and Support Vector Machine (SVM), Logistic Regression achieved the highest accuracy of 97.74% with 5-fold cross-validation. Key features like radius, area, and concave points were most influential in predicting tumor malignancy.
+
+This project was completed using Python and Jupyter Notebook. A paper and a slideshow are also available for viewing.
