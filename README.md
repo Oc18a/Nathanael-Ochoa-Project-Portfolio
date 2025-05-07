@@ -1,5 +1,8 @@
 ## Education
 
+MBA | Western Governors University (Starting June 2025)<br>
+B.S., Business Analytics | Bellevue University (Starting June 2025)<br>
+B.S., Mathematics | Bellevue University (Starting June 2025)<br>
 M.S., Data Science | Bellevue University (Aug 2023 - Mar 2025)<br>
 Certificate of Training in Database Querying with SQL | OpenClassrooms (Apr 2023)<br>
 B.S., Computer Science w/ minor in Mathematics | California State University of Northridge (Aug 2020 - May 2022)<br>
