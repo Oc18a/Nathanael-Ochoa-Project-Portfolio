@@ -8,11 +8,12 @@ B.S., Computer Science w/ minor in Mathematics | California State University of 
 ## Work Experience
 
 ### Target Corporation | Jun 2018 - Present
-*General Merchandise/Fulfillment Expert*
-- Efficiently fulfill digital guest orders by selecting, preparing, packing, and sorting items for order pickup, drive-up, and shipping to home.
-- Ensure accuracy in order processing and timely delivery to meet guest demand and productivity metrics.
-- Expertly manage select store areas to maintain a well-zoned, stocked, and signed sales floor, ensuring guest satisfaction and optimal sales performance.
-- Acknowledge guests while efficiently completing workload, prioritize tasks based on sales trends, execute promotions, planograms, and price changes, and maintain inventory accuracy through backroom organization and inbound delivery processing.
+*Fulfillment Expert*
+- Selected items for order pickup, drive-up, and ship-to-home requests, ensuring accuracy and speed.
+- Prepared, packed, and sorted guest orders using proper materials to maintain quality during transit.
+- Processed digital orders with precision, consistently meeting productivity and timeliness goals.
+- Maintained organized and stocked sales floor zones to enhance guest experience and drive sales.
+-  Ensured all hold orders were accurately processed and staged for pickup and drive-up.
 
 ### Gamestar+ | Dec 2021
 *QA Contract Engineer*
